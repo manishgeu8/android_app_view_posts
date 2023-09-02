@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#D1D1D1"
+        android:pathData="M0,0h128v128h-128z"/>
+
+    <!-- Post Rectangle -->
+    <path
+        android:fillColor="#D1D1D1"
+        android:pathData="M32,32h64v64h-64z"/>
+
+    <!-- Text lines on Post to signify content -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M40,40h48v4h-48zM40,52h32v4h-32zM40,64h48v4h-48zM40,76h32v4h-32z"/>
+
+    <!-- Eye shape -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M64,62c-10,0 -18.1,6.1 -21.9,14.8 3.8,8.7 11.9,14.8 21.9,14.8 10,0 18.1,-6.1 21.9,-14.8 -3.8,-8.7 -11.9,-14.8 -21.9,-14.8zM64,85c-4.4,0 -8,-3.6 -8,-8s3.6,-8 8,-8 8,3.6 8,8 -3.6,8 -8,8z"/>
+</vector>
