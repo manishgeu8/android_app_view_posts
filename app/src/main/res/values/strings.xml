@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View Posts</string>
+    <string name="error_image">error-image</string>
+    <string name="an_error_occurred">Something went wrong!</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="id">ID</string>
+    <string name="user_id">User ID</string>
+    <string name="poster_image">poster-image</string>
+    <string name="try_again">Try Again</string>
+</resources>
